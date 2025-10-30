@@ -1,16 +1,16 @@
-# Real-Time Collaboration Dashboard 🚀
+# Real-Time Collaboration Dashboard
 
 A real-time task management board built with modern web technologies. Features real-time updates, task management, and user collaboration.
-## ✨ Features
+## Features
 ### Core Features
-- **📋 CRUD Tasks** - Create, Read, Update, and Delete tasks
-- **👥 User Assignment** - Assign tasks to team members
-- **🔄 Real-time Updates** - Instant synchronization using WebSockets (Socket.io)
-- **📊 Task Status Workflow** - Drag & drop tasks through stages: **Todo → In Progress → Done**
-- **💾 Data Persistence** - All updates stored in MongoDB
-- **📝 Activity Logs** - Complete audit trail of all task activities
+- **CRUD Tasks** - Create, Read, Update, and Delete tasks
+- **User Assignment** - Assign tasks to team members
+- **Real-time Updates** - Instant synchronization using WebSockets (Socket.io)
+- **Task Status Workflow** - Drag & drop tasks through stages: **Todo → In Progress → Done**
+- **Data Persistence** - All updates stored in MongoDB
+- **Activity Logs** - Complete audit trail of all task activities
 
-## 📸 Screenshots
+## Screenshots
 ### Main Dashboard
 <img width="1916" height="896" alt="image" src="https://github.com/user-attachments/assets/c9b38972-fd60-4985-96fc-e4d65fa1ffed" />
 ### Task Management
@@ -19,13 +19,13 @@ A real-time task management board built with modern web technologies. Features r
 <img width="1867" height="903" alt="image" src="https://github.com/user-attachments/assets/54b7ebaf-06f8-425b-9c65-8371288699f9" />
 
 ### Bonus Features
-- **🔔 Real-time Notifications**
-- **📈 Progress Tracking**
-- **👤 User Management**
-- **🎯 Drag & Drop Interface**
-- **📱 Responsive Design**
+- **Real-time Notifications**
+- **Progress Tracking**
+- **User Management**
+- **Drag & Drop Interface**
+- **Responsive Design**
 
-## 🛠 Technology Stack
+## Technology Stack
 ### Frontend
 - **React 18** - UI framework
 - **Socket.io-client** - Real-time communication
@@ -39,7 +39,7 @@ A real-time task management board built with modern web technologies. Features r
 - **MongoDB** - Database
 - **Mongoose** - ODM for MongoDB
 
-## 🚀 Quick Start
+## Quick Start
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB (local or Atlas)
