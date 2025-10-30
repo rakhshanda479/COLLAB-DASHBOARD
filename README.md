@@ -13,8 +13,10 @@ A real-time task management board built with modern web technologies. Features r
 ## Screenshots
 ### Main Dashboard
 <img width="1916" height="896" alt="image" src="https://github.com/user-attachments/assets/c9b38972-fd60-4985-96fc-e4d65fa1ffed" />
+
 ### Task Management
 <img width="1870" height="883" alt="image" src="https://github.com/user-attachments/assets/15cc1304-51c0-44f8-adf1-0439673a0685" />
+
 ### Activity Log
 <img width="1867" height="903" alt="image" src="https://github.com/user-attachments/assets/54b7ebaf-06f8-425b-9c65-8371288699f9" />
 
